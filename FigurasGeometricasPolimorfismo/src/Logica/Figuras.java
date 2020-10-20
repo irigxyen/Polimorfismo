@@ -10,10 +10,9 @@ package Logica;
  * @author Karla
  */
 public abstract class Figuras {
-    
-
    
-    public abstract float CalcularArea();
-    public abstract float CalcularPerimetro();
-    }
+public abstract float CalcularArea();
+
+public abstract float CalcularPerimetro();
+    
 }
