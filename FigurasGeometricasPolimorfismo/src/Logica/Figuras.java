@@ -13,16 +13,7 @@ public abstract class Figuras {
     
 
    
-      
-    
-   
-    
-    public float CalcularArea(){
-        return 0;
-        
-    }
-    public float CalcularPerimetro(){
-        return 0;
-        
+    public abstract float CalcularArea();
+    public abstract float CalcularPerimetro();
     }
 }
